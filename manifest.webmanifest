@@ -1,0 +1,2 @@
+{"name":"Cosmos — a little universe","short_name":"Cosmos","description":"Маленькая вселенная у тебя на экране","lang":"ru","start_url":"./index.html","scope":"./","display":"standalone","orientation":"portrait","background_color":"#000000","theme_color":"#000000","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+
